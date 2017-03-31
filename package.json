@@ -1,0 +1,18 @@
+{
+  "name": "shoyu",
+  "version": "1.0.0",
+  "description": "shoyu is a npm helper - it reads your code to find out what packages need to be installed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tgcandido & patrickds & community",
+  "license": "ISC",
+  "dependencies": {
+    "args": "^2.4.1",
+    "array-unique": "^0.3.2",
+    "find": "^0.2.7",
+    "node-cmd": "^2.0.0",
+    "split-lines": "^1.1.0"
+  }
+}
