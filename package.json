@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "tgcandido & patrickds & community",
+  "author": "tgcandido & community",
   "license": "ISC",
   "dependencies": {
     "args": "^2.4.1",
