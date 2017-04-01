@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/tgcandido/shoyu.git"
   },
+  "bin": {
+    "shoyu": "./index.js"
+  },
   "author": "tgcandido & community",
   "license": "ISC",
   "dependencies": {
