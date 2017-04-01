@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const args = require('args')
 const installer = require('./lib/installer')
 
