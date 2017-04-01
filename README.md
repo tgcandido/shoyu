@@ -1,5 +1,3 @@
-# shoyu
+# ＳＨＯＹＵ
 
-*shoyu* is a npm helper - it reads your code to find out what packages need to be installed
-
-*THIS IS NOT PRODUCTION READY*
+*ＳＨＯＹＵ* is a npm helper - it reads your code to find out what packages need to be installed
